@@ -1,6 +1,6 @@
 # API of Todo app by flask
 <div>
-  <img src="../flask-logo.png">
+  <img src="https://github.com/kyokozuka/flask-todo-api/blob/main/flask-logo.png">
 </div>
 <div>
   <p>
